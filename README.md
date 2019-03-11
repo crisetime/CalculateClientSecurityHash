@@ -1,4 +1,5 @@
-1.To run this project you need to first Create account in the https://acme-test.uipath.com
+1.To run this project first you need an account in ACME website, To Create account Go to the https://acme-test.uipath.com
+ If you have an account already u can skip first step
 
 2.Open the https://platform.uipath.com and Login 
 
@@ -13,5 +14,7 @@
 7.Save the asset and you ready to go.
 
 8.Open project in UIpath and run it.
+
+If any problem occured ping me at Vikrant.mnnit00@gmail.com
 
 # CalculateClientSecurityHash
