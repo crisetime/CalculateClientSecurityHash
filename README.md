@@ -1,6 +1,6 @@
 1.To run this project you need to first Create account in the https://acme-test.uipath.com
 
-2.Open the platform.uipath.com and Login 
+2.Open the https://platform.uipath.com and Login 
 
 3.Now Go to the assets and add a Asset
 
