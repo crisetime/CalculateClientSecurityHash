@@ -15,6 +15,8 @@
 
 8.Open project in UIpath and run it.
 
+Note* Your orchestrator must be connected woth uipath Robot
+
 If any problem occured ping me at Vikrant.mnnit00@gmail.com
 
 # CalculateClientSecurityHash
