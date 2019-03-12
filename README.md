@@ -15,7 +15,7 @@
 
 8.Open project in UIpath and run it.
 
-Note* Your orchestrator must be connected woth uipath Robot
+Note* Your orchestrator must be connected with uipath Robot
 
 If any problem occured ping me at Vikrant.mnnit00@gmail.com
 
